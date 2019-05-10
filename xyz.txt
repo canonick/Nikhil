@@ -1,3 +1,4 @@
 mydbinstance.cnfqcmlh571b.us-east-1.rds.amazonaws.co
 
-nikhil yash panna ganyazatt himanchu chomesh zatt
+nikhil yash panna ganyazatt himanchu chomesh zat
+ganya is chomy
